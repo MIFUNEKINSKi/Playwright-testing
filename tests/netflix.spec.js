@@ -17,7 +17,7 @@ test("my first test", async ({ page }) => {
 });
 
 // ADD YOUR TESTS HERE!
-// gree
+// green
 test.use({ headless: false, slowMo: 1000 });
 
 test("homework", async ({ page }) => {
